@@ -1,4 +1,4 @@
-//This requires FFXIV Quick Luncher to work. You will need your secret key for your OTP.
+//This requires FFXIV Quick Launcher to work. You will need your secret key for your OTP.
 //This is based on code that someone else created that I used before but couldn't find it again so recreated it using C#.
 
 using System;
